@@ -1,5 +1,5 @@
 ### Hello there 👋
-~~*general Kenobi*~~
+~~*General Kenobi*~~
 
 *I am Twenty aka. TwentyFourMinutes, I do a lot of code.*
 
