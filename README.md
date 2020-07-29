@@ -7,4 +7,4 @@ Almost always my code in written in C#, as its my favourite language. The back-e
 
 If you want to know more about me and what I do, either check out my pinned repositories or my [website](https://twenty-four.dev).
 
-![TwentyFourMinutes's GitHib stats](https://github-readme-stats.vercel.app/api?username=TwentyFourMinutes&show_icons=true&theme=tokyonight)
+![TwentyFourMinutes's GitHib stats](https://github-readme-stats.vercel.app/api?username=TwentyFourMinutes&show_icons=true&theme=tokyonight&count_private=true)
