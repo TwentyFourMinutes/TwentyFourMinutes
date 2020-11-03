@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello there 👋 <img align="right" src="https://komarev.com/ghpvc/?username=twentyfourminutes&label=Profile%20views&color=9775c2&style=flat" alt="twentyfourminutes" />
 ~~*General Kenobi*~~
 
 *I am Twenty aka. TwentyFourMinutes, I do a lot of code.*
